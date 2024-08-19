@@ -78,6 +78,5 @@ python ftp-brute-forcer.py 192.168.1.10 -u admin -w passwords.txt -p 21
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-```
 
 This `README.md` provides a complete guide to the project, including installation, usage, and ethical considerations.
